@@ -6,7 +6,7 @@
 ## 💫 About Me :
 - 👋 Hey, I’m Alvin
 - 👀 I love football, coding, listening to music
-- 🌍 Je parle un petit peu francais et anglais
+- 🌍 I speak English, Hindi, Malayalam and Je parle un petit peu francais et Espanol
 - 🌱 I’m currently learning Reactjs, Nodejs
 
 ## 🌐 Socials :
