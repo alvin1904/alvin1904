@@ -15,6 +15,27 @@
 /" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sm0483" height="30" width="40" /></a>
 </p>
 
+### 💻 Languages and Tools
+</p>
+<p align="left">
+                  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/HTML.svg" alt="HTML" width="40" height="40"/>
+                  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/CSS.svg" alt="CS" width="40" height="40"/>
+                  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/JavaScript.svg" alt="JS" width="40" height="40"/>
+                  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/MongoDB.svg" alt="MongoDB" width="40" height="40"/>
+                  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/ExpressJS-Dark.svg" alt="Express" width="40" height="40"/>
+                  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/React-Dark.svg" alt="React" width="40" height="40"/>
+                  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/NodeJS-Dark.svg" alt="NodeJs" width="40" height="40"/>
+                  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Vite-Dark.svg" alt="Vite" width="40" height="40"/>
+                  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Firebase-Dark.svg" alt="Firebase" width="40" height="40"/>
+                  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Bootstrap.svg" alt="Bootstrap" width="40" height="40"/>
+                  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/C.svg" alt="C" width="40" height="40"/>
+                  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Java-Dark.svg" alt="Java" width="40" height="40"/>
+                  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/MySQL-Dark.svg" alt="MySQL" width="40" height="40"/>
+                  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Git.svg" alt="Git" width="40" height="40"/>
+                  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Linux-Dark.svg" alt="Linux" width="40" height="40"/>
+</p>
+
+
 <br>
 
 ![Alvin's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=alvin1904&show_icons=true&theme=prussian)
