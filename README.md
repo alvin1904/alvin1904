@@ -5,9 +5,12 @@
 
 ## 💫 About Me :
 - 👋 Hey, I’m Alvin
-- 👀 I love football, coding, listening to music
+- 😄 Pronouns: He/His
+- 👀 I love football, designing, coding, listening to music
 - 🌍 I speak English, Hindi, Malayalam and Je parle un petit peu francais et Espanol
-- 🌱 I’m currently learning Reactjs, Nodejs
+- 🌱 I’m currently learning React Js and Node Js.
+- 💬 Ask me about MERN.
+
 
 ## 🌐 Socials :
 <p align="left">
