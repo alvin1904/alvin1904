@@ -37,6 +37,8 @@
                   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Git.svg" alt="Git" width="40" height="40"/>
                   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Linux-Dark.svg" alt="Linux" width="40" height="40"/>
                   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="Figma" width="40" height="40"/>
+                  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" alt="Nextjs" width="40" height="40"/>
+
 </p>
 
 
