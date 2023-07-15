@@ -6,7 +6,7 @@
 ## 💫 About Me :
 - 👋 Hey, I’m Alvin
 - 😄 Pronouns: He/His
-- Have a look at my portfolio: [alvinvarghese.me](alvinvarghese.me)
+- Have a look at my portfolio: [alvinvarghese.me](https://alvinvarghese.me)
 - 👀 I love football, designing, coding, listening to music
 - 🌱 I’m currently learning Next Js, Svelte
 
@@ -42,6 +42,7 @@
 <p align="left">
 <img src="https://raw.githubusercontent.com/alvin1904/skill-icons/main/icons/Svelte.svg" alt="Svelte" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/alvin1904/skill-icons/main/icons/Astro.svg" alt="Astro" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/alvin1904/skill-icons/main/icons/Sass.svg" alt="Sass" width="40" height="40"/>
 </p>
 
 <br>
