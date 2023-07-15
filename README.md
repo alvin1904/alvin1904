@@ -6,11 +6,9 @@
 ## 💫 About Me :
 - 👋 Hey, I’m Alvin
 - 😄 Pronouns: He/His
+- Have a look at my portfolio: [alvinvarghese.me](alvinvarghese.me)
 - 👀 I love football, designing, coding, listening to music
-- 🌍 I speak English, Hindi, Malayalam and Je parle un petit peu francais et Espanol
-- 🌱 I’m currently learning React Js and Node Js.
-- 💬 Ask me about MERN.
-
+- 🌱 I’m currently learning Next Js, Svelte
 
 ## 🌐 Socials :
 <p align="left">
@@ -19,28 +17,32 @@
 </p>
 
 ### 💻 Languages and Tools
-</p>
 <p align="left">
-                  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/HTML.svg" alt="HTML" width="40" height="40"/>
-                  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/CSS.svg" alt="CS" width="40" height="40"/>
-                  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/JavaScript.svg" alt="JS" width="40" height="40"/>
-                  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/MongoDB.svg" alt="MongoDB" width="40" height="40"/>
-                  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/ExpressJS-Dark.svg" alt="Express" width="40" height="40"/>
-                  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/React-Dark.svg" alt="React" width="40" height="40"/>
-                  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/NodeJS-Dark.svg" alt="NodeJs" width="40" height="40"/>
-                  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Vite-Dark.svg" alt="Vite" width="40" height="40"/>
-                  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Firebase-Dark.svg" alt="Firebase" width="40" height="40"/>
-                  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Bootstrap.svg" alt="Bootstrap" width="40" height="40"/>
-                  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/C.svg" alt="C" width="40" height="40"/>
-                  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Java-Dark.svg" alt="Java" width="40" height="40"/>
-                  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/MySQL-Dark.svg" alt="MySQL" width="40" height="40"/>
-                  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Git.svg" alt="Git" width="40" height="40"/>
-                  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Linux-Dark.svg" alt="Linux" width="40" height="40"/>
-                  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="Figma" width="40" height="40"/>
-                  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" alt="Nextjs" width="40" height="40"/>
-
+<img src="https://raw.githubusercontent.com/alvin1904/skill-icons/main/icons/TypeScript.svg" alt="Typescript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/alvin1904/skill-icons/main/icons/NextJS-Dark.svg" alt="Nextjs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/alvin1904/skill-icons/main/icons/Figma-Dark.svg" alt="Figma" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/alvin1904/skill-icons/main/icons/NodeJS-Dark.svg" alt="NodeJs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/alvin1904/skill-icons/main/icons/Vite-Dark.svg" alt="Vite" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/alvin1904/skill-icons/main/icons/React-Dark.svg" alt="React" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/alvin1904/skill-icons/main/icons/ExpressJS-Dark.svg" alt="Express" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/alvin1904/skill-icons/main/icons/MongoDB.svg" alt="MongoDB" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/alvin1904/skill-icons/main/icons/Firebase-Dark.svg" alt="Firebase" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/alvin1904/skill-icons/main/icons/MySQL-Dark.svg" alt="MySQL" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/alvin1904/skill-icons/main/icons/JavaScript.svg" alt="JS" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/alvin1904/skill-icons/main/icons/Bootstrap.svg" alt="Bootstrap" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/alvin1904/skill-icons/main/icons/CSS.svg" alt="CSS" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/alvin1904/skill-icons/main/icons/HTML.svg" alt="HTML" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/alvin1904/skill-icons/main/icons/C.svg" alt="C" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/alvin1904/skill-icons/main/icons/Java-Dark.svg" alt="Java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/alvin1904/skill-icons/main/icons/Linux-Dark.svg" alt="Linux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/alvin1904/skill-icons/main/icons/Git.svg" alt="Git" width="40" height="40"/>
 </p>
 
+### 💻 Currently Learning
+<p align="left">
+<img src="https://raw.githubusercontent.com/alvin1904/skill-icons/main/icons/Svelte.svg" alt="Svelte" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/alvin1904/skill-icons/main/icons/Astro.svg" alt="Astro" width="40" height="40"/>
+</p>
 
 <br>
 
