@@ -8,8 +8,8 @@
 - 😄 Pronouns: He/His
 - Have a look at my portfolio: [alvinvarghese.me](https://alvinvarghese.me)
 - 👀 I love football, designing, coding, listening to music
-- 🌱 I’m currently learning Next Js, Svelte
-
+- 🌱 I’m currently learning Next Js
+  
 ## 🌐 Socials :
 <p align="left">
 <a href="https://github.com/alvin1904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sm0483" height="30" width="40" /></a><a href="https://www.linkedin.com/in/alvin-varghese19
@@ -29,7 +29,7 @@
 <img src="https://raw.githubusercontent.com/alvin1904/skill-icons/main/icons/Firebase-Dark.svg" alt="Firebase" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/alvin1904/skill-icons/main/icons/MySQL-Dark.svg" alt="MySQL" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/alvin1904/skill-icons/main/icons/JavaScript.svg" alt="JS" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/alvin1904/skill-icons/main/icons/Bootstrap.svg" alt="Bootstrap" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/alvin1904/skill-icons/main/icons/Sass.svg" alt="Sass" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/alvin1904/skill-icons/main/icons/CSS.svg" alt="CSS" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/alvin1904/skill-icons/main/icons/HTML.svg" alt="HTML" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/alvin1904/skill-icons/main/icons/C.svg" alt="C" width="40" height="40"/>
@@ -42,7 +42,6 @@
 <p align="left">
 <img src="https://raw.githubusercontent.com/alvin1904/skill-icons/main/icons/Svelte.svg" alt="Svelte" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/alvin1904/skill-icons/main/icons/Astro.svg" alt="Astro" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/alvin1904/skill-icons/main/icons/Sass.svg" alt="Sass" width="40" height="40"/>
 </p>
 
 <br>
