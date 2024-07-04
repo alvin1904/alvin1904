@@ -6,7 +6,7 @@
 ## 💫 About Me :
 - 👋 Hey, I’m Alvin
 - 😄 Pronouns: He/His
-- Have a look at my portfolio: [alvinvarghese.me](https://alvinvarghese.me)
+- Have a look at my portfolio: [alvinvarghese.vercel.app](https://alvinvarghese.vercel.app)
 - 👀 I love football, designing, coding, listening to music
 - 🌱 I’m currently learning Next Js
   
